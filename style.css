@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3 {
+    color: darkcyan;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
